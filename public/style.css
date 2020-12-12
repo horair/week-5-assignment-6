@@ -1,0 +1,483 @@
+body
+{
+    background-color: #fff;
+}
+#top
+{
+    padding-top: 60px;
+}
+#kb
+{
+    width: 32px;
+}
+h1
+{
+    vertical-align: middle;
+    margin-left: -50px;
+    font-size: 32px;
+    
+}
+.imag
+{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    font-size: 26px;
+    text-align: right;
+}
+.navbar1
+{
+    padding-top: 30px;
+    height: 320px;
+    background-color: black;
+    color: white;
+    margin-top: 0%;
+}
+li
+{
+    list-style-type: none;
+    display: inline-block;
+    margin: 3px;
+    font-weight: 600;
+    font-weight: bold;
+}
+li>a
+{
+    text-decoration: none;
+    color: gainsboro;
+    font-size: 18px;
+    transition: font-size 300ms ease;
+}
+li>a:hover
+{
+    text-decoration: none;
+    color: white;
+    font-size: 1.75rem;
+}
+.dropdown .dropbtn {
+    font-weight: 600;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    color: gainsboro;
+    background-color: inherit;
+    font-family: inherit; 
+    margin: 0px; 
+    transition: font-size 300ms ease;
+  }
+  .dropbtn:hover
+  {
+    font-size: 1.75rem;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+.dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  #one:hover
+  {
+      text-decoration: none;
+  }
+#one
+{
+    color: white;
+    text-decoration: underline;
+}
+.black
+{
+    padding-top: 40px;
+    padding-left: 50px;
+    font-weight: 100;
+}
+  #fl
+  {
+      font-size: 28px;
+      font-weight: 300;
+  }
+.second
+{
+    text-align: center;
+    padding-top: 20px;
+    background-color:#303030;
+    height: 220px;
+    color: white;
+}
+.third
+{
+    padding-top: 50px;
+    font-size: 20px;
+}
+#sp>a
+{
+    font-size: 20px;
+    transition: color 500ms ease-in-out;
+}
+#sp>a:hover{
+    text-decoration: none;
+    color: black;
+}
+#img2
+{
+    padding-top: 40px;
+    transition: transform 500ms ease-in;
+}
+#img2:hover
+{
+    transform: translate(50px);
+}
+#sh
+{
+    font-size: 2.25rem;
+    font-weight: 500;
+}
+h5
+{
+    padding-top: 20px;
+    font-size: 26px;
+}
+#buttonlink:hover
+{
+    text-decoration: none;
+    color: white;
+}
+button>a
+{
+    color: white;
+}
+#learnbutton
+{
+    background-color: #105ff1;
+    color: white;
+    width: 200px;
+    height: 40px;
+    border-style: none;
+    border-radius: 6px;
+    transition: background-color 500ms ease-in-out;
+}
+#learnbutton:hover
+{
+    background-color: #5e89da;
+}
+.forth
+{
+    margin-top: 60px;
+    
+}
+.pforth
+{   
+    font-size: 16px;
+}
+.pforto
+{
+    width: 100%;
+}
+#img4
+{
+    width: 150px;
+    transition: transform 500ms ease-in;
+}
+#img4:hover
+{
+    transform: translate(35px);
+}
+.two
+{
+    position: relative;
+    background-position: 50%;
+    background-size: cover;
+     margin-top: 80px;
+    height: 550px;
+    background-image: url(https://kubernetes.io/_common-resources/images/kub_video_banner_homepage.jpg);
+}
+.texttt
+{
+    color: white;
+    margin-top: 30px;
+}
+#video
+{
+    width: 200px;
+    border-style: none;
+    position: relative;
+    font-size: 24px;
+    background-color: #fff;
+    border-radius: 8px;
+    color: #3371e3;
+    padding: 15px 30px 15px 30px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+.event
+{
+    border-style: none;
+    position: absolute;
+    font-size: 18px;
+    background-color: #303030;
+    border-radius: 8px;
+    color: #fff;
+    padding: 20px 10px
+}
+.event>a:hover{
+    text-decoration: none;
+    color: white;
+}
+#circle
+{
+    width: 80px;
+}
+.cimag
+{
+    padding-top: 50px;
+    text-align: center;
+}
+.three
+{
+    background-color: #F7F7F7;
+    padding-bottom: 25px;
+
+}
+.sixth
+{
+    margin-bottom: 40px;
+}
+.seven
+{
+    text-align: left;
+    margin-bottom: 35px;
+    font-size: 20px;
+}
+.rs
+{
+    margin-left: 80px;
+}
+.fourr
+{
+    margin-top: 30px;
+}
+.case
+{
+    margin-top: 60px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.casee
+{
+    transition: color 500ms ease-in-out;
+}
+.casee:hover
+{
+    text-decoration: none;
+    color: black;
+}
+.read{
+    transition: color 500ms ease-in-out;
+}
+.read:hover
+{
+    text-decoration: none;
+    color: black;
+}
+.sdl
+{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+}
+img
+{
+    margin-bottom: 20px;
+}
+h4>a
+{
+    text-decoration: none;
+    transition: color 500ms ease-in-out;
+}
+h4>a:hover
+{
+    color: black;
+    text-decoration: none;
+}
+
+center 
+{
+    margin-top: 20px;
+    font-size: 20px;
+}
+#cloud
+{
+    width: 300px;
+}
+.bot
+{
+    padding-bottom: 60px;
+}
+.fivee
+{
+    background-color: #F7F7F7;
+    padding-top: 130px;
+    padding-bottom: 150px;
+    text-align: center;
+}
+input
+{
+    border: 1px solid #ABB0B2;
+    width: 350px;
+    margin-right: 10px;
+}
+#subs
+{
+    border-radius: 4px;
+    border-style: none;
+    width: 110px;
+    color: white;
+    background-color: #646363;
+    height: 30px;
+    transition: background-color 500ms ease-in-out;
+}
+#subs:hover
+{
+    background-color: #b3b3b3;
+}
+#subs>a
+{
+ text-decoration: none;
+ color: white;
+}
+.sixx
+{
+    text-align: center;
+    font-size: 18px;
+    padding-top: 20px;
+    background-color: #303030;
+    padding-bottom: 5px;
+}
+.ftnav
+{
+    color: white;
+}
+.ftnav:hover
+{
+    text-decoration: none;
+    color: white;
+}
+.icon
+{
+
+    margin: 5px;
+    padding-top: 20px;
+    width: 25px;
+}
+.lp
+{
+    text-align: center;
+    color: white;
+    font-size: 11px;
+    line-height: 1.75rem;
+}
+@media screen and (max-width: 500px)
+{
+    .kbpic
+    {
+        margin-top: 0px;
+    }
+    .imag
+    {
+        display: none;
+    }
+    .navbar1 {
+        padding-right: .5rem;
+        padding-left: .75rem;
+        font-size: 15px;
+        height: 600px ;
+    }
+    .second{
+        height: 300px;
+    }
+    #sh{
+        font-size: 25px;
+    }
+    h5{
+        font-size: 18px;
+    }
+    .two
+    {
+        position: relative;
+        background-position: 25%;
+        background-size: cover;
+         margin-top: 80px;
+        height: 252px;
+    
+    }
+    .texttt,#video,.event
+    {
+        display: none;
+    }
+    #img4
+    {
+        padding-left: 70px;
+        width: 65%;
+    }
+    #subs
+    {
+        margin-top: 10px;
+        width: 320px;
+    }
+}
+@media screen and (min-width: 501px) and (max-width: 1000px) {
+/* start of large tablet styles */
+    .navbar1
+    {
+        height: 450px;
+    }
+    .imag
+    {
+        padding-left: 80px;
+    }
+    .sdl{
+        text-align: left;
+        width: 100%;
+    }
+    .second
+    {
+        height: 300px;
+    }
+    .two
+    {
+        position: relative;
+        background-position: 30%;
+        background-size: cover;
+         margin-top: 80px;
+         height: 600px
+    
+    }
+    .texttt,#video,.event
+    {
+        display: none;
+    }
+    #img4
+    {
+        padding-top: 20px;
+        padding-right: 40px;
+    }
+    .imag
+    {
+        display: none;
+    }
+}
